@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshithav-22/leetcode_22/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshithav-22/leetcode_22/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshithav-22/leetcode_22/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
