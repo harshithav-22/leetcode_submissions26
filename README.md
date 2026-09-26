@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/harshithav-22/leetcode_22/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshithav-22/leetcode_22/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/harshithav-22/leetcode_22/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshithav-22/leetcode_22/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshithav-22/leetcode_22/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshithav-22/leetcode_22/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshithav-22/leetcode_22/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
