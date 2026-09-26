@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harshithav-22/leetcode_22/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/harshithav-22/leetcode_22/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshithav-22/leetcode_22/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshithav-22/leetcode_22/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -247,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshithav-22/leetcode_22/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshithav-22/leetcode_22/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -271,10 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshithav-22/leetcode_22/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 | [3046-split-the-array](https://github.com/harshithav-22/leetcode_22/tree/master/3046-split-the-array) |
 ## Tree
